@@ -2,7 +2,7 @@
 
 This is a TypeScript utility that converts text into numerical codes (character unicode) and checks if the resulting number sequence resembles a potential bank account number.
 
-The utility is designed to detect user chats where prohibited confidential information, like bank account numbers, may be disguised as an alphabet sequence. For example, the sequence "hchadibdiabdia" corresponds to "83-81-49-122491".
+The utility is designed to detect user chats where prohibited confidential information, like bank account numbers, may be exchanged in a disguise as an alphabet sequence. For example, the sequence "hchadibdiabdia" corresponds to "83-81-49-122491".
 
 It includes functions to convert alphabetic characters to numerical representations and verify if the converted string consists solely of digits with specific length constraints.
 
