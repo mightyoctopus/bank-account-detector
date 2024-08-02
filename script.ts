@@ -16,6 +16,7 @@ function convertToNum (sequence: string): string {
 and digit characters from 0 to 9 */
 function isPotentialBankAcc (num:string): boolean {
     const length = num.length;
+    // change 12 to any number of the typical bank account format in your region.
     return length <= 12 && /^\d+$/.test(num);
 };
 
