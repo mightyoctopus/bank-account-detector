@@ -1,9 +1,3 @@
-Creating a `README.md` file for your GitHub repository is an essential step in documenting your project. A well-written README provides a clear and comprehensive introduction to your project, helping users understand its purpose, how to use it, and other important information.
-
-Here’s a template you can follow, tailored to the code you've shared:
-
----
-
 # Bank Account Detector
 
 This project is a TypeScript utility that converts text into numerical codes and checks if the resulting number sequence resembles a potential bank account number. It includes functions to convert alphabetic characters to numerical representations and verify if the converted string consists solely of digits with specific length constraints.
